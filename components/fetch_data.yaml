@@ -1,0 +1,15 @@
+name: fetch_data
+description: Fetches dataset from DVC remote storage.
+inputs:
+  - name: dvc_path
+    type: str
+  - name: remote
+    type: str
+outputs:
+  - name: data_path
+    type: str
+implementation:
+  container:
+    image: python:3.10
+    command: ["python", "-c"]
+    args: ["from src.pipeline_components import fetch_data; fetch_data(dvc_path='{{inputs.parameters.dvc_path}}', remote='{{inputs.parameters.remote}}')"]

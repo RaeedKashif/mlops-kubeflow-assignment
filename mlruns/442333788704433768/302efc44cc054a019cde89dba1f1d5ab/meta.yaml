@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Thinkpad/mlops_a4/mlruns/442333788704433768/302efc44cc054a019cde89dba1f1d5ab/artifacts
+end_time: 1764407522559
+entry_point_name: ''
+experiment_id: '442333788704433768'
+lifecycle_stage: active
+run_id: 302efc44cc054a019cde89dba1f1d5ab
+run_name: thoughtful-lark-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764407522290
+status: 3
+tags: []
+user_id: Thinkpad

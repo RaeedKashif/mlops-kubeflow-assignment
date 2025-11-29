@@ -3,3 +3,7 @@
 .dvc/tmp/
 !.dvc/
 !*.dvc
+
+venv/
+models/
+__pycache__/

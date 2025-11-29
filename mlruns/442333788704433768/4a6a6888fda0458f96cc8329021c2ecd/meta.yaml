@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Thinkpad/mlops_a4/mlruns/442333788704433768/4a6a6888fda0458f96cc8329021c2ecd/artifacts
+end_time: 1764407521814
+entry_point_name: ''
+experiment_id: '442333788704433768'
+lifecycle_stage: active
+run_id: 4a6a6888fda0458f96cc8329021c2ecd
+run_name: crawling-hare-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764407455027
+status: 3
+tags: []
+user_id: Thinkpad
